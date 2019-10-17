@@ -1,0 +1,6 @@
+django
+djangprestframework
+djoser
+django-Cons-headers
+django-notifs
+uwsgi
